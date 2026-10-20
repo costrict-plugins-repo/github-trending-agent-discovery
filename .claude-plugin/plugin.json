@@ -1,0 +1,22 @@
+{
+  "name": "agent-discovery",
+  "version": "0.2.0",
+  "description": "Discover and apply AI agent configurations from curated catalogs with interactive review and team assembly",
+  "author": {
+    "name": "Nikhil Sivapuram",
+    "url": "https://github.com/svmnikhil"
+  },
+  "homepage": "https://github.com/svmnikhil/agent-discovery#readme",
+  "repository": "https://github.com/svmnikhil/agent-discovery",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "agents",
+    "discovery",
+    "awesome-copilot",
+    "catalog",
+    "team",
+    "interactive"
+  ],
+  "skills": "./skills/"
+}
